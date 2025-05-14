@@ -1,2 +1,2 @@
 # firstbit solutions
-assignmnets
+assignments
